@@ -1,1 +1,1 @@
-<p>Erreur 404 !</p>
+<p>Erreur 404!</p>

@@ -8,10 +8,10 @@
     <title><?= ucfirst($title) ?></title>
 </head>
 <body>
-    <nav>
-        <ul>
-            <li><a href="/?students"></a></li>
-<!--            <li><a href=""></a></li>-->
-        </ul>
-    </nav>
+<nav>
+    <ul>
+        <li><a href="/?p=students">Student</a></li>
+    </ul>
+</nav>
+
 
