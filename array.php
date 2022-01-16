@@ -3,7 +3,7 @@ $students = [
    0 => [
         'name' => "Coquelet",
         'firstName' => "Samuel",
-        'age' => "28",
+        'age' => "31",
         'city' => "Fourmies",
         'hobbys' => [
             "Pokémon",
@@ -25,9 +25,9 @@ $students = [
 ],
 
     2 => [
-        'name' => "Bataille",
-        'firstName' => "Sylvie",
-        'age' => "44",
+        'name' => "Nectoux",
+        'firstName' => "Vanessa",
+        'age' => "30",
         'city' => "Fourmies",
         'hobbys' => [
             "Netflix",
@@ -37,6 +37,9 @@ $students = [
     ]
 ];
 
+foreach ($students as $student) {
+    echo $student['name']. $student['firstName'] . "<br>";
+}
 
 
 
