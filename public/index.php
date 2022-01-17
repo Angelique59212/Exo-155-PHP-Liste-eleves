@@ -1,5 +1,5 @@
 <?php
-$page = $_GET['p'] ?? 'home';
+$page = $_GET['p'] ?? 'students';
 $page = strip_tags($page);
 getPage(
     sprintf(__DIR__ . "/../%s.php", strtolower($page)),
