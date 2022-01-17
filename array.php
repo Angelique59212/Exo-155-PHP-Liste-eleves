@@ -37,9 +37,11 @@ $students = [
     ]
 ];
 
-foreach ($students as $student) {
-    echo $student['name']. $student['firstName'] . "<br>";
-}
+
+
+
+
+
 
 
 

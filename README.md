@@ -14,10 +14,13 @@ Liste en PHP
     1=> ...***
 ]
 
-***- Une fois que votre tableau est créé, vous allez ajouter du code qui va permettre de lister en html les élèves en affichant seulement leurs nom/prénom***
-- Dans la liste, un lien va permettre d'accéder à une seconde page php affichant le reste des informations ( dans votre lien, vous utiliserez l'index de l'élève en question pour sélectionner la bonne ligne du tableau )
+***- Une fois que votre tableau est créé, vous allez ajouter du code qui va permettre de lister en html les élèves en 
+affichant seulement leurs nom/prénom***
+- Dans la liste, un lien va permettre d'accéder à une seconde page php affichant le reste des informations 
+( dans votre lien, vous utiliserez l'index de l'élève en question pour sélectionner la bonne ligne du tableau )
 - Sur cette seconde page, un lien permettra de revenir à la page listant les élèves.
 
-- Lorsque votre appli fonctionne correctement, vous allez travailler sur la présentation ( rendez l'appli agréable à utiliser )
+- Lorsque votre appli fonctionne correctement, vous allez travailler sur la présentation *
+( rendez l'appli agréable à utiliser )
 
 - BONUS : Ajouter du javascript à vos pages

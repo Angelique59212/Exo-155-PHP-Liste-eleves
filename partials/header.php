@@ -10,7 +10,7 @@
 <body>
 <nav>
     <ul>
-        <li><a href="/?p=array">Student</a></li>
+        <li><a href="/?p=students">Student</a></li>
     </ul>
 </nav>
 
